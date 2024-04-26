@@ -1,11 +1,11 @@
 .chat {
   padding-left: 86px;
-  padding-bottom: 200px;
+  padding-bottom: 5%;
 
   display: flex;
   flex-flow: column wrap;
   align-items: flex-start;
 
-  font-size: 32px;
+  font-size: 24px;
   position: relative;
 }
